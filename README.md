@@ -1,1 +1,1 @@
-# SuperSimpleDev-css-practice-button-of-different-website
+# SuperSimpleDev-css-practice-button of different website
